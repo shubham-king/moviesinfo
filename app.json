@@ -2,7 +2,7 @@
   "name": "Mention All Bot",
   "description": "A simple mention all for telegram.",
   "env": {
-    "TOKEN": {
+    "BOT_TOKEN": {
       "description": "Enter bot token.",
       "value": ""
     },
