@@ -4,7 +4,7 @@ import os
 from pyrogram import Client
 
 bot_token = os.environ["BOT_TOKEN"]
-api_id = int(os.environ["God")
+api_id = int(os.environ["God"])
 api_hash = os.environ["API"]
 
 plugins = dict(
