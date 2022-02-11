@@ -81,8 +81,8 @@ class Database:
             {"$set": {"informations": informations}}
         )
 
-BOT_OWNER = int(os.environ.get("BOT_OWNER"))
-DATABASE = os.environ.get("DATABASE")
+BOT_OWNER = int(os.environ.get("BOT_OWNER", "1915929975"))
+DATABASE = os.environ.get("DATABASE", "mongodb+srv://Mytr:t26woaMX3K4LcHnS@cluster0.uprw6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 db = Database(DATABASE, "FnMovieBot")
 broadcast_ids = {}
 
