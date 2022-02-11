@@ -10,7 +10,7 @@ I am a movie information finder bot.
 
 > `I can find information of all movies.`
 
-Made by @FayasNoushad"""
+Modified by @Crystalbots"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -30,15 +30,15 @@ Made by @FayasNoushad"""
 
 ABOUT_TEXT = """--**About Me 😎**--
 
-🤖 **Name :** [Movie Info Bot](https://telegram.me/{})
+🤖 **Name :** [Movie Info Bot](https://telegram.me/Moviesinfo_bot{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [Don't know](#)
 
-📢 **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+📢 **Channel :** [Crystal Bots](https://telegram.me/Crystalbots)
 
-👥 **Group :** [Developer Team](https://telegram.me/TheDeveloperTeam)
+👥 **Group :** [Developer Team](https://telegram.me/ToxicTechSupport)
 
-🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/Movie-Info-Bot-V2)
+🌐 **Source :** [👉 Click here](#)
 
 📝 **Language :** [Python3](https://python.org)
 
@@ -100,7 +100,7 @@ RESET_BUTTONS = InlineKeyboardMarkup(
 JOIN_BUTTONS = [
     InlineKeyboardButton(
         text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        url='https://telegram.me/Crystalbots'
     )
 ]
 
