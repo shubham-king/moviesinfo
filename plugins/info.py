@@ -13,7 +13,7 @@ API = "https://api.sumanjay.cf/watch/query="
 JOIN_BUTTONS = [
     InlineKeyboardButton(
         text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        url='https://telegram.me/crystalbots'
     )
 ]
 
